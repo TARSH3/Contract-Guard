@@ -1,0 +1,25 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement is entered into between TechCorp Inc. ("Company") and John Doe ("Employee").
+
+TERMS AND CONDITIONS:
+
+1. EMPLOYMENT TERM
+This agreement shall commence on January 1, 2024, and shall continue for a period of two (2) years, automatically renewing for additional one-year terms unless either party provides ninety (90) days written notice of termination.
+
+2. COMPENSATION
+Employee shall receive an annual salary of $75,000, payable in bi-weekly installments.
+
+3. EARLY TERMINATION
+In the event of early termination by Employee, Employee agrees to pay Company liquidated damages equal to three (3) months of salary as compensation for recruitment and training costs.
+
+4. NON-COMPETE CLAUSE
+Employee agrees not to engage in any business that competes with Company within a fifty (50) mile radius for a period of eighteen (18) months following termination of employment.
+
+5. DISPUTE RESOLUTION
+Any disputes arising under this Agreement shall be resolved through binding arbitration. Employee waives the right to trial by jury.
+
+By signing below, both parties agree to be bound by the terms of this Agreement.
+
+_________________                    _________________
+Company Signature                    Employee Signature
